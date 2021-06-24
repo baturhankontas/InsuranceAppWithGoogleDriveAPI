@@ -1,0 +1,10 @@
+google:
+    secret:
+       key:
+         path: classpath:client_secret_gd.json        
+    oauth:
+       callback:
+          uri: http://localhost.nip.io:8080/oauth
+    credentials:
+        folder:
+           path: file:C:\\Users\\ali.kontas\\OneDrive - Accenture\\Desktop\\exercise\\credentials
